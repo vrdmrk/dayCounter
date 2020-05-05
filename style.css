@@ -1,0 +1,68 @@
+body {
+    font-family: 'Josefin Sans';
+    color: #E2F0F7;
+    background: linear-gradient( #3D8AA4, #845EC2);
+    background-size: 100vh 100vh;
+    display: grid;
+    justify-content: center;
+    
+}
+
+h1 {
+    margin-top: 2em;
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+::placeholder {
+    color: #E2F0F7;
+    opacity: 0.8;
+}
+
+#startDate {
+    font-size: 1.2em;
+    width: 200px;
+    border-radius: 2em;
+    border: 2px solid #E2F0F7;
+    padding: 6px 6px 4px 6px;
+    text-align: center;
+    font-family: 'Josefin Sans';
+    color: #E2F0F7;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#addDays {
+    font-size: 1.2em;
+    width: 80px;
+    border-radius: 2em;
+    border: 2px solid #E2F0F7;
+    padding: 6px 6px 4px 6px;
+    text-align: center;
+    font-family: 'Josefin Sans';
+    color: #E2F0F7;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.result {
+    font-size: 2em;
+}
+
+button {
+    margin-left: 15px;
+    font-family: 'Josefin Sans';
+    font-size: 1.2em;
+    color: #E2F0F7;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 2em;
+    border: 2px solid #E2F0F7;
+    padding: 6px 6px 4px 6px;
+}
+
+
